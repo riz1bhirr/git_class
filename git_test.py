@@ -1,6 +1,0 @@
-print("Hi Learners")
-print(1)
-print(1)
-print(1)
-print(1)
-print(1)
